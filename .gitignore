@@ -1,0 +1,4 @@
+.env
+*.mongodb
+*.sql
+node_modules/
